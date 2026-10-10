@@ -8,6 +8,9 @@ ataby Upscaler is available only as a hosted web app at the address above. This 
 
 ## What it does
 
+<img width="848" height="533" alt="AISelect_20261010_235025_Chrome" src="https://github.com/user-attachments/assets/a6a8dea7-146e-40ee-bc71-ac47614a2754" />
+
+
 ataby Upscaler takes a video file, enlarges every frame on your GPU, sharpens it, and re-encodes the result into a new video file you can save.
 
 - Output at **1080p, 1440p or 4K (2160p)**, keeping the original aspect ratio (landscape and portrait both work)
