@@ -1,3 +1,4 @@
+
 # ataby Upscaler
 
 Upscale videos to 1080p, 1440p or 4K right in your browser. No uploads, no installs, no account.
@@ -8,8 +9,7 @@ ataby Upscaler is available only as a hosted web app at the address above. This 
 
 ## What it does
 
-<img width="848" height="533" alt="AISelect_20261010_235025_Chrome" src="https://github.com/user-attachments/assets/a6a8dea7-146e-40ee-bc71-ac47614a2754" />
-
+<img width="1853" height="1048" alt="Ekran görüntüsü 2026-10-11 204410" src="https://github.com/user-attachments/assets/bbc94b78-10d3-4f01-aed3-3aa2172d4bb7" />
 
 ataby Upscaler takes a video file, enlarges every frame on your GPU, sharpens it, and re-encodes the result into a new video file you can save.
 
